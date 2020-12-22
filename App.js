@@ -23,14 +23,14 @@ export default function App() {
 
       const {latitude, longitude} = location.coords
       alert('Latitude: ${latitude}, Longitude: ${longitude}')
-      
+
     } catch (error) {
 
     } 
   }
   return (
     <View style={styles.container}>
-      <Text>Hello</Text>
+      <Text>Hello World</Text>
       <StatusBar style="auto" />
     </View>
   );
