@@ -4,8 +4,10 @@ import { StyleSheet, Text, View } from 'react-native';
 import * as location from 'expo-location';
 import { AppLoading } from 'expo';
 
-export default function App() {
+// const WEATHER_API_KEY = '**'
+const BASE_WEATHER_URL = 'https://api.openweathermap.org/data/2.5/weather?'
 
+export default function App() {
   const [errorMessage, setErrorMessage] = useState(null)
 
   useEffect(() =>{
@@ -21,8 +23,11 @@ export default function App() {
       }
       const location = await Location.getCurrentPositionAsync()
 
+      const weatherUrl = '${BASE_WEATHER_URL}lat=${latitude}&lon=${longitude}&appid=${WEATHER_API_URL}'
+
       const {latitude, longitude} = location.coords
-      alert('Latitude: ${latitude}, Longitude: ${longitude}')
+      
+
 
     } catch (error) {
 
