@@ -23,11 +23,14 @@ export default function App() {
       }
       const location = await Location.getCurrentPositionAsync()
 
-      const weatherUrl = '${BASE_WEATHER_URL}lat=${latitude}&lon=${longitude}&appid=${WEATHER_API_URL}'
-
       const {latitude, longitude} = location.coords
       
 
+      const weatherUrl = '${BASE_WEATHER_URL}lat=${latitude}&lon=${longitude}&appid=${WEATHER_API_URL}'
+      
+      const response = await fetch(weatherUrl)
+
+      const result = await response.json()
 
     } catch (error) {
 
