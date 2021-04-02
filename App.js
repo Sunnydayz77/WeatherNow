@@ -39,10 +39,11 @@ export default function App() {
         setErrorMessage(result.message)
       }
 
-
-
-    } catch (error) {} 
+    } catch (error) {
+      setErrorMessage(error.message)
+    } 
   }
+  
   if(currentWeather) {
     const { main : {temp} } = currentWeather
   return (
@@ -50,8 +51,14 @@ export default function App() {
       <Text>{temp}</Text>
       <StatusBar style="auto" />
     </View>
-  ) 
+  )} else {
+    return (
+    <View style={styles.container}>
+      <Text>{errorMessage}</Text>
+      <StatusBar style="auto" />
+    </View>
   }
+  
 }
 
 const styles = StyleSheet.create({
