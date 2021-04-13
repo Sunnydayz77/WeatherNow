@@ -71,19 +71,16 @@ This project will also feature a weather API and gps location retrieval from you
 
 
 #### Libraries and API Endpoint Documentation
-...
-<!-- 
+
 |     Library                          | Description                                                  |
 | :----------------------------------: | :-----------------------------------------------------------:|
-| Rails Documentation                  | _Ruby on Rails Library._                                     |
-| React Router                         | _React Router Library._                                      |
+| React Native                         | _React Native Library._                                      |
 | CSS Tricks                           | _For help while styling web app._                            |
-| Secret Key API                       | _Third party API used to render secret key for sign up._     |
-| StackOverflow                        | _For help while writing functional and class components._    |
+| Weather API                          | _Third party API used to render weather data._               |
+| StackOverflow                        | _For help while writing components._                         |
 | GIPHY                                | _For videos used on Readme, loading spinner, and 404 page._  |
-| Surge                                | _For deployment of front-end of web app._                    |
-| Heroku                               | _For deployment of back-end of web app._                     |
- -->
+| Surge                                | _For deployment of the web app._                             |
+
 
 <br>
 
