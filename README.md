@@ -76,7 +76,7 @@ This project will also feature a weather API and gps location retrieval from you
 | :----------------------------------: | :-----------------------------------------------------------:|
 | React Native                         | _React Native Library._                                      |
 | CSS Tricks                           | _For help while styling web app._                            |
-| Weather API                          | _Third party API used to render weather data._               |
+| OpenWeather API                      | _Third party API used to render weather data._               |
 | StackOverflow                        | _For help while writing components._                         |
 | GIPHY                                | _For videos used on Readme, loading spinner, and 404 page._  |
 | Surge                                | _For deployment of the web app._                             |
@@ -106,18 +106,12 @@ This project will also feature a weather API and gps location retrieval from you
 
 <br>
 
-### Link to deployed site: 
-
-Surge(front-end): (...) <br>
-
-Heroku(Back-end): (...) <br>
-
 ### Installation Instructions For Local Machine
-...
-<!-- 
-1. Clone repository down with 'git clone https://github.com/Sunnydayz77/CoPaw.git'
+
+1. Clone repository down with 'git clone https://github.com/Sunnydayz77/WeatherNow.git'
 2. CD into repository
-3. Run 'bundle install'
+...
+<!-- 3. Run 'bundle install'
 4. Run 'rails db:create'
 5. Run 'rails db:migrate RAILS_ENV=development'
 6. Run 'rails db:seed'
@@ -140,7 +134,7 @@ Heroku(Back-end): (...) <br>
 ``` -->
 
 
-### Link to deployed site (for quick reference while scrolling through readme file): 
+### Links to deployed site: 
 
 Surge(front-end): (...) <br>
 
