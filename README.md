@@ -8,8 +8,8 @@
 
 ### Overview
 
-**WeatherNow** is coming soon! 
-This project will also feature a weather API and gps location retrieval from your phone.
+**WeatherNow** is coming soon! <br>
+This project will feature a weather API and gps location retrieval from your phone.
 
 <br>
 
@@ -109,7 +109,8 @@ This project will also feature a weather API and gps location retrieval from you
 ### Installation Instructions For Local Machine
 
 1. Clone repository down with 'git clone https://github.com/Sunnydayz77/WeatherNow.git'
-2. CD into repository
+2. CD into repository <br>
+(to be continued) <br>
 ...
 <!-- 3. Run 'bundle install'
 4. Run 'rails db:create'
