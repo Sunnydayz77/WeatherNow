@@ -17,17 +17,12 @@ This project will feature a weather API and gps location retrieval from your pho
 
 ...
 
-<!-- - _Web app built as an SPA(single-page app)_<br>
+<!-- - _Web app built as an SPA(single-page app)_<br> -->
 - _Use atleast one API to call and display information_<br>
 - _Sign up_<br>
 - _Sign in_<br>
 - _Search Bar_<br>
-- _Messaging board_<br>
-- _Creation of messages_<br>
-- _Editing of messages_<br>
-- _Deletion of messages_<br>
-- _Rails Backend (API)_<br>
-- _React Frontend_<br>
+- _React Native_<br>
 - _Authentication_<br>
 - _Flexbox_<br>
 - _Nicely styled and ready for a portfolio_<br>
@@ -35,7 +30,7 @@ This project will feature a weather API and gps location retrieval from your pho
 - _Robust commit history_<br>
 - _Code is correctly indented and well styled_<br>
 - _Console logs removed_<br>
-- _Readme created_<br> -->
+- _Readme created_<br>
 
 <br>
 
