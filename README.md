@@ -23,6 +23,7 @@ This project will feature a weather API and gps location retrieval from your pho
 - _Sign in_<br>
 - _Search Bar_<br>
 - _React Native_<br>
+- _Weather API_<br>
 - _Authentication_<br>
 - _Flexbox_<br>
 - _Nicely styled and ready for a portfolio_<br>
@@ -40,10 +41,7 @@ This project will feature a weather API and gps location retrieval from your pho
 
 <!-- - _3 related models (User plus two others)_<br>
 - _3 associations (one-to-many or many-to-many)_<br>
-- _Worldwide map and coworker locator_<br>
 - _404 Page_<br>
-- _Weather API_<br>
-- _Likes/Dislikes_<br>
 - _Emojis_<br> -->
 
 <br>
