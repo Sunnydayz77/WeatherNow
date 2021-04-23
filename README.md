@@ -19,8 +19,6 @@ This project will feature a weather API and gps location retrieval from your pho
 
 <!-- - _Web app built as an SPA(single-page app)_<br> -->
 - _Use atleast one API to call and display information_<br>
-- _Sign up_<br>
-- _Sign in_<br>
 - _Search Bar_<br>
 - _React Native_<br>
 - _Weather API_<br>
