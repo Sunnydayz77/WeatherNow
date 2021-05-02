@@ -49,14 +49,14 @@ This project will feature a weather API and gps location retrieval from your pho
 #### Homepage
 ![Landing Page]()
 
-#### Sign Up
+<!-- #### Sign Up
 ![Sign Up Page]()
 
 #### Sign In
 ![Sign In]()
 
 #### Profile View
-![Profile View]()
+![Profile View]() -->
 
 <br>
 
