@@ -35,12 +35,11 @@ This project will feature a weather API and gps location retrieval from your pho
 
 #### Post-MVP Goals
 
-...
-
 <!-- - _3 related models (User plus two others)_<br>
-- _3 associations (one-to-many or many-to-many)_<br>
+- _3 associations (one-to-many or many-to-many)_<br> -->
 - _404 Page_<br>
-- _Emojis_<br> -->
+- _Emojis_<br>
+...
 
 <br>
 
