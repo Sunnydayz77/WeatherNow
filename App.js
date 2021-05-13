@@ -5,6 +5,7 @@ import * as location from 'expo-location';
 import { AppLoading } from 'expo';
 import WeatherInfo from './components/WeatherInfo';
 import UnitsPicker from './components/UnitsPicker';
+import ReloadIcon from './components/ReloadIcon';
 import {colors} from './utils/index';
 
 // const WEATHER_API_KEY = '**'
@@ -56,6 +57,7 @@ export default function App() {
       <StatusBar style="auto" />
       <View style={styles.main}>
           <UnitsPicker unitsSystem={unitsSystem} setUnitsSystem={setUnitsSystem}/>
+          <ReloadIcon load={load}/>
           <WeatherInfo currentWeather={currentWeather} />
       </View>
     </View>
